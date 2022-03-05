@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1646471616 source:c:\users\huzai\documents\github\subsequence-finder-c-fiverr-11\longest subsequence\main.c
+	<stdio.h>
+	"LCS.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1646307912 c:\users\huzai\documents\github\subsequence-finder-c-fiverr-11\longest subsequence\lcs.h
+
